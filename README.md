@@ -1,6 +1,6 @@
 # Hi I'm Lordwill. 👋
 
-#### I am a Software Engineer student at ALX. `I learn by doing....`
+#### I am a Software Engineering student at ALX. `I learn by doing....`
 
 - 🔭 I’m currently working on my coding skills.
 - 👯 I’m open to collaborate on Software Engineering projects.
