@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi I'm Lordwill. 👋
 
-<!--
-**Lordwill1/Lordwill1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** I am a Software Engineer student at ALX. I learn by doing....
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my coding skills.
+- 👯 I’m open for collaborate.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contact 
+:link: [LinkedIn](https://www.linkedin.com/in/godswill-kalu-358750221/).
+:link: [Twitter](https://twitter.com/IamLordwill).
+:email: [Gmail](messagelordwill@gmail.com).
+
+https://github.com/Lordwill1
+
+# QUESTION AND ANSWER WEBSITE 
+
+:globe_with_meridians: [Stackoverflow](https://Stackoverflow.com/).
+:globe_with_meridians: [GitHub](https://github.com/).
+:globe_with_meridians: [Quora](https://quora.com/).
+:globe_with_meridians: [Reddit](https://reddit.com/).
+:globe_with_meridians: [Stack exchange](https://Stackexchange.com/).
+:globe_with_meridians: [Code project](https://codeproject.com/).
+:globe_with_meridians: [Programmers heaven](https://programmersheaven.com/).
