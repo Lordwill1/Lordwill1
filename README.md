@@ -10,6 +10,7 @@
 * [Twitter](https://twitter.com/IamLordwill)
 * [Gmail](messagelordwill@gmail.com)
 
+
 ## QUESTION AND ANSWER WEBSITE 
 
 * [Stackoverflow](https://Stackoverflow.com/)
@@ -20,6 +21,4 @@
 * [Code project](https://codeproject.com/)
 * [Programmers heaven](https://programmersheaven.com/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?lordwill1=anuraghazra&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lordwill1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lordwill1&show_icons=true&theme=radical)
