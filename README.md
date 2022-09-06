@@ -3,7 +3,8 @@
 #### I am a Software Engineer student at ALX. `I learn by doing....`
 
 - 🔭 I’m currently working on my coding skills.
-- 👯 I’m open to collaborate on Software Engineering projects. 
+- 👯 I’m open to collaborate on Software Engineering projects.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lordwill1&layout=compact)](https://github.com/Lordwill1/github-readme-stats)
 
 # Contact 
 * [LinkedIn](https://www.linkedin.com/in/godswill-kalu-358750221/)
