@@ -9,7 +9,7 @@
 # Contact 
 * [LinkedIn](https://www.linkedin.com/in/godswill-kalu-358750221/)
 * [Twitter](https://twitter.com/IamLordwill)
-* [Gmail](messagelordwill@gmail.com)
+* [Gmail](https://gmail.com/messagelordwill@gmail.com)
 
 ## QUESTION AND ANSWER WEBSITE 
 * [Stackoverflow](https://Stackoverflow.com/)
