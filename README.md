@@ -12,7 +12,6 @@
 * [Gmail](messagelordwill@gmail.com)
 
 ## QUESTION AND ANSWER WEBSITE 
-
 * [Stackoverflow](https://Stackoverflow.com/)
 * [GitHub](https://github.com/)
 * [Quora](https://quora.com/)
