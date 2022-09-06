@@ -1,6 +1,6 @@
 # Hi I'm Lordwill. 👋
 
-** I am a Software Engineer student at ALX. I learn by doing....
+**I am a Software Engineer student at ALX. I learn by doing....
 
 - 🔭 I’m currently working on my coding skills.
 - 👯 I’m open for collaborate.
@@ -14,10 +14,10 @@ https://github.com/Lordwill1
 
 # QUESTION AND ANSWER WEBSITE 
 
-:globe_with_meridians: [Stackoverflow](https://Stackoverflow.com/).
-:globe_with_meridians: [GitHub](https://github.com/).
-:globe_with_meridians: [Quora](https://quora.com/).
-:globe_with_meridians: [Reddit](https://reddit.com/).
-:globe_with_meridians: [Stack exchange](https://Stackexchange.com/).
-:globe_with_meridians: [Code project](https://codeproject.com/).
-:globe_with_meridians: [Programmers heaven](https://programmersheaven.com/).
+:small_blue_diamond: [Stackoverflow](https://Stackoverflow.com/).
+:small_blue_diamond: [GitHub](https://github.com/).
+:small_blue_diamond: [Quora](https://quora.com/).
+:small_blue_diamond: [Reddit](https://reddit.com/).
+:small_blue_diamond: [Stack exchange](https://Stackexchange.com/).
+:small_blue_diamond: [Code project](https://codeproject.com/).
+:small_blue_diamond: [Programmers heaven](https://programmersheaven.com/).
