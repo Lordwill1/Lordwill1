@@ -1,9 +1,9 @@
 # Hi I'm Lordwill. 👋
 
-#### I am a Software Engineering student at ALX. `I learn by doing....`
+### I am a Software Engineering student at ALX. `I learn by doing....`
 
-- 🔭 I’m currently working on my coding skills.
-- 👯 I’m open to collaborate on Software Engineering projects.
+- #### 🔭 I’m currently working on my coding skills.
+- #### 👯 I’m open to collaborate on Software Engineering projects.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lordwill1&layout=compact)](https://github.com/Lordwill1/github-readme-stats)
 
