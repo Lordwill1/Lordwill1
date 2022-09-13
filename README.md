@@ -5,12 +5,12 @@
 - #### 🔭 I’m currently working on my coding skills.
 - #### 👯 I’m open to collaborate on Software Engineering projects.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lordwill1&layout=compact)](https://github.com/Lordwill1/github-readme-stats)
-
 # Contact 
 * [LinkedIn](https://www.linkedin.com/in/godswill-kalu-358750221/)
 * [Twitter](https://twitter.com/IamLordwill)
 * [Email](mailto:messagelordwill@gmail.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lordwill1&layout=compact)](https://github.com/Lordwill1/github-readme-stats)
 
 ## QUESTION AND ANSWER WEBSITE 
 * [Stackoverflow](https://Stackoverflow.com/)
@@ -22,7 +22,6 @@
 * [Programmers heaven](https://programmersheaven.com/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lordwill1&show_icons=true&theme=radical)
-
 
 
 
