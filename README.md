@@ -1,3 +1,4 @@
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+LORDWILL;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)
 # Hi I'm Lordwill. 👋
 
 ### I am a Software Engineering student at ALX. `I learn by doing....`
