@@ -7,7 +7,7 @@ Hi, I'm Lordwill. <img src="https://raw.githubusercontent.com/MartinHeinz/Martin
 </h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### I am a Software Engineering student at ALX. `I learn by doing....`
+### I am a Software Engineer. `I learn by doing....`
 
 ![](https://komarev.com/ghpvc/?username=lordwill1&style=for-the-badge&color=blue&labelColor=000000)<a href="https://www.github.com/lordwill1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/lordwill1?logo=github&style=for-the-badge&color=0C7DBE&labelColor=000000" /></a><a href="https://www.twitter.com/iamlordwill" target="_blank" rel="noreferrer"><img
