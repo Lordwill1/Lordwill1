@@ -6,10 +6,6 @@
 Hi, I'm Lordwill. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 </h1>
 
-<!-- Animation for direction arrow-->
-      
-  <script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.6.2/dist/dotlottie-wc.js" type="module"></script>
-
       
 ### I am a Software Engineer | AI Agent Developer. `I learn by doing....`
 
