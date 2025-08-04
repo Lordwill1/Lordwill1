@@ -10,17 +10,8 @@ Hi, I'm Lordwill. <img src="https://raw.githubusercontent.com/MartinHeinz/Martin
       
   <script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.6.2/dist/dotlottie-wc.js" type="module"></script>
 
-  <div style="display: flex; justify-content: center; align-items: center; height: 17vh;">
-      <dotlottie-wc 
-      src="https://lottie.host/1100b380-be68-44d2-93a0-d43cb74d2a5a/Zq9Ydqjd01.lottie" 
-      style="width: 150px; height: 150px;" 
-      speed="1" 
-      autoplay 
-      loop>
-      </dotlottie-wc>
-  </div>
       
-### I am a Software Engineer. `I learn by doing....`
+### I am a Software Engineer | AI Agent Developer. `I learn by doing....`
 
 ![](https://komarev.com/ghpvc/?username=lordwill1&style=for-the-badge&color=blue&labelColor=000000)<a href="https://www.github.com/lordwill1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/lordwill1?logo=github&style=for-the-badge&color=0C7DBE&labelColor=000000" /></a><a href="https://www.twitter.com/iamlordwill" target="_blank" rel="noreferrer"><img
