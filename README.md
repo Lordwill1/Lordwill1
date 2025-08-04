@@ -5,8 +5,21 @@
 <h1 align="center">
 Hi, I'm Lordwill. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 </h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+  <!-- Animation for direction arrow-->
+      
+      <script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.6.2/dist/dotlottie-wc.js" type="module"></script>
+
+      <div style="display: flex; justify-content: center; align-items: center; height: 17vh;">
+      <dotlottie-wc 
+      src="https://lottie.host/1100b380-be68-44d2-93a0-d43cb74d2a5a/Zq9Ydqjd01.lottie" 
+      style="width: 150px; height: 150px;" 
+      speed="1" 
+      autoplay 
+      loop>
+      </dotlottie-wc>
+      </div>
+      
 ### I am a Software Engineer. `I learn by doing....`
 
 ![](https://komarev.com/ghpvc/?username=lordwill1&style=for-the-badge&color=blue&labelColor=000000)<a href="https://www.github.com/lordwill1" target="_blank" rel="noreferrer"><img
