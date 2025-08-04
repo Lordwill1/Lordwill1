@@ -6,11 +6,11 @@
 Hi, I'm Lordwill. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 </h1>
 
-  <!-- Animation for direction arrow-->
+<!-- Animation for direction arrow-->
       
-      <script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.6.2/dist/dotlottie-wc.js" type="module"></script>
+  <script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.6.2/dist/dotlottie-wc.js" type="module"></script>
 
-      <div style="display: flex; justify-content: center; align-items: center; height: 17vh;">
+  <div style="display: flex; justify-content: center; align-items: center; height: 17vh;">
       <dotlottie-wc 
       src="https://lottie.host/1100b380-be68-44d2-93a0-d43cb74d2a5a/Zq9Ydqjd01.lottie" 
       style="width: 150px; height: 150px;" 
@@ -18,7 +18,7 @@ Hi, I'm Lordwill. <img src="https://raw.githubusercontent.com/MartinHeinz/Martin
       autoplay 
       loop>
       </dotlottie-wc>
-      </div>
+  </div>
       
 ### I am a Software Engineer. `I learn by doing....`
 
