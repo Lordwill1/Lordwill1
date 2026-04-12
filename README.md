@@ -28,8 +28,6 @@ src="https://img.shields.io/twitter/follow/iamlordwill?logo=twitter&style=for-th
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lordwill1&layout=compact)](https://github.com/Lordwill1/github-readme-stats)
-
 <h2 align="left">Support:</h2>
 <p><a href="https://www.buymeacoffee.com/lordwill"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamnaeto" /></a></p><br><br><br><br><br>
 
