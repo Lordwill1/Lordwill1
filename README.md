@@ -16,7 +16,7 @@ src="https://img.shields.io/twitter/follow/iamlordwill?logo=twitter&style=for-th
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2348162887537)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-- #### 🔭 I Build and Develop AI bots | chat | call | Agentic A.I.
+- #### 🔭 I Build and Develop AI bots | chatbot | voicebot | Agentic A.I.
 - #### 👯 I’m open to collaborate on Software Engineering projects.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
