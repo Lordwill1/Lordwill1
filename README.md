@@ -22,7 +22,7 @@ src="https://img.shields.io/twitter/follow/iamlordwill?logo=twitter&style=for-th
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 # Contact 
-* [LinkedIn](https://www.linkedin.com/in/godswill-kalu-358750221/)
+* [LinkedIn](www.linkedin.com/in/lordwill)
 * [Twitter](https://twitter.com/IamLordwill)
 * [Email](mailto:messagelordwill@gmail.com)
 
